@@ -1,0 +1,30 @@
+---
+id: 20212491
+name: Stray Purrely Street
+type: Spell Card
+frameType: spell
+desc: 'Your opponent cannot target "Purrely" monsters you control with card effects,
+  the turn they are Special Summoned. Once per turn, if a face-up "Purrely" Xyz Monster(s)
+  you control leaves the field because of an opponent''s card: Special Summon 1 Level
+  1 "Purrely" monster from your Deck or GY. Once per turn, during the End Phase: You
+  can target 1 "Purrely" Xyz Monster on the field; attach 1 "Purrely" Quick-Play Spell
+  from your Deck or GY to that monster as material.'
+race: Field
+archetype: Purrely
+card_sets:
+- set_name: Amazing Defenders
+  set_code: AMDE-EN019
+  set_rarity: Rare
+  set_rarity_code: "(R)"
+  set_price: '0'
+card_images:
+- id: 20212491
+  image_url: https://images.ygoprodeck.com/images/cards/20212491.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/20212491.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/20212491.jpg
+card_prices:
+- cardmarket_price: '0.14'
+  tcgplayer_price: '0.16'
+  ebay_price: '0.99'
+  amazon_price: '0.00'
+  coolstuffinc_price: '0.39'

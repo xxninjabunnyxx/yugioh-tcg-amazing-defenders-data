@@ -1,0 +1,38 @@
+---
+id: 29599813
+name: Purrely Pretty Memory
+type: Spell Card
+frameType: spell
+desc: "Each player gains 1000 LP, then you can apply the following effect.\r\n ● Discard
+  1 card, and if you do, Special Summon 1 Level 1 \"Purrely\" monster from your Deck.\r\nA
+  \"Purrely\" Xyz Monster that has this card as material gains the following effect.\r\n●
+  Once per turn: You can send 1 other card you control to the GY, then target 1 card
+  your opponent controls; attach it to this card as material."
+race: Quick-Play
+archetype: Purrely
+card_sets:
+- set_name: Amazing Defenders
+  set_code: AMDE-EN022
+  set_rarity: Collector's Rare
+  set_rarity_code: "(CR)"
+  set_price: '0'
+- set_name: Amazing Defenders
+  set_code: AMDE-EN022
+  set_rarity: Ultra Rare
+  set_rarity_code: "(UR)"
+  set_price: '0'
+card_images:
+- id: 29599813
+  image_url: https://images.ygoprodeck.com/images/cards/29599813.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/29599813.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/29599813.jpg
+- id: 29599813
+  image_url: https://images.ygoprodeck.com/images/cards/29599813.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/29599813.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/29599813.jpg
+card_prices:
+- cardmarket_price: '19.58'
+  tcgplayer_price: '16.09'
+  ebay_price: '0.00'
+  amazon_price: '0.00'
+  coolstuffinc_price: '13.99'
